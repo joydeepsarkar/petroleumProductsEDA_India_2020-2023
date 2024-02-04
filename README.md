@@ -9,6 +9,7 @@ The goal of the project was to derive insights from the Petroleum products data 
 
 ## Dataset Details
 Size : 492 rows and 5 columns
+
 API endpoint : https://api.data.gov.in/resource/7b624b4a-1456-4945-80d0-dfb5e40ddcff
 
 ## EDA Summary
